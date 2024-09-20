@@ -24,7 +24,7 @@
 - **Machine Learning:** TensorFlow, Keras
 - **Cloud:** AWS S3, AWS EC2, AWS Lambda
 - **Version Control:** Git, GitHub
-
+   ### Project Structure
 project-repo/
 ├── frontend/         # Contains React.js frontend code
 │   ├── src/
@@ -51,63 +51,6 @@ project-repo/
    Clone the repository:
    git clone https://github.com/your-repo/OCR-project.git
    cd OCR-project/frontend
-   See Frontend Readme for more details
-
-## Table of Contents
-- [Project Title and Description](#project-title-and-description)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Team](#team)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
-## Features
-- Recognizes handwritten digits using a trained machine learning model.
-- Converts handwritten notes into digital text.
-- User-friendly web interface for uploading and viewing notes.
-- RESTful API for backend communication.
-- Cloud deployment using AWS.
-
-## Technologies Used
-- **Frontend:** React.js
-- **Backend:** Flask (Python)
-- **Machine Learning:** TensorFlow, Keras
-- **Database:** MongoDB (or any other database you use)
-- **Cloud:** AWS S3, AWS EC2, AWS Lambda (or other services you use)
-- **Version Control:** Git, GitHub
-
-## Project Structure
-
-project-repo/
-├── frontend/         # Contains React.js frontend code
-│   ├── src/
-│   └── public/
-├── backend/          # Contains Flask backend API
-│   ├── app/
-│   └── tests/
-├── data-science/     # Contains machine learning models and scripts
-│   ├── models/
-│   └── notebooks/
-├── cloud/            # Deployment and infrastructure configurations
-│   ├── aws/
-│   └── ci-cd/
-└── README.md         # Project documentation
-
-## Setup and Installation
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
-- [Python](https://www.python.org/) and [pip](https://pip.pypa.io/en/stable/)
-- [Git](https://git-scm.com/)
-
-### Frontend Setup
-Clone the repository:
-   git clone https://github.com/your-repo/project-repo.git
-   cd project-repo/frontend
    See Frontend Readme for more details
 
  ###  Backend Setup
